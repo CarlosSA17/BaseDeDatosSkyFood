@@ -62,9 +62,15 @@
     <DataWriteAllFilesInOneDirectory>True</DataWriteAllFilesInOneDirectory>
   </WriteToFileOptions>
   <DataFileSet>
-    <Count>3</Count>
+    <Count>9</Count>
     <DataFile>dbo.CLIENTE_Data.sql</DataFile>
     <DataFile>dbo.COMIDA_Data.sql</DataFile>
     <DataFile>dbo.MENU_Data.sql</DataFile>
+    <DataFile>dbo.EMPLEADO_Data.sql</DataFile>
+    <DataFile>dbo.PROVEEDOR_Data.sql</DataFile>
+    <DataFile>dbo.COMPRA_Data.sql</DataFile>
+    <DataFile>dbo.VENTA_Data.sql</DataFile>
+    <DataFile>dbo.COMPRADETALLE_Data.sql</DataFile>
+    <DataFile>dbo.VENTADETALLE_Data.sql</DataFile>
   </DataFileSet>
 </DatabaseInformation>
